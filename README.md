@@ -55,3 +55,7 @@ Tecnologías utilizadas:
     -SQL Server
     -SQL Server Management Studio(SSMS)
     -C#
+Autores:
+
+    -Willman Eduardo Miranda Rivero
+    -Eito Ygei Matsui
